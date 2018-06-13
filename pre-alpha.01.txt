@@ -1,0 +1,6 @@
+Pre-alpha .01 features:
+    - Fully populated database containing the latest stats for all players and teams
+    - Custom search and filtering capabilities
+    - Basic statistical analytics via python accessible through the command line
+        - Specifics tbd
+    - Visual display of player data
